@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MpuugaTyroneVictorWoods2006
+- 👀 I’m interested in ... Web dev (django), Flutter, Data Science
+- 🌱 I’m currently learning ... python, computer science
+- 💞️ I’m looking to collaborate on ... python development (intermediate)
+- 📫 How to reach me : mpuugatyronevictorwoods@gmail.com
